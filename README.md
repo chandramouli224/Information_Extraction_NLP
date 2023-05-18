@@ -1,2 +1,2 @@
 # Information_Extraction_NLP
-Extracting the information of the football players from the given dataset.  Dataset consist of paragraph descriptions about few players ,we need to extract different information like clubs that they played for, positions they played in , country that they played for  etc.
+We are tasked with mining specific details from a provided dataset that contains descriptive paragraphs about certain football players. The required data includes various aspects such as the clubs each player has represented, the positions they have fulfilled on the field, and the nations for which they have competed. It is paramount that we carefully extract and catalogue these details for subsequent analysis.
